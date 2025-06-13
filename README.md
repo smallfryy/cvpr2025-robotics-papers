@@ -4,7 +4,7 @@ A curated list of ~100 robotics / robotics-adjacent research papers presented at
 
 This year’s themes include robot manipulation, vision-language models, simulation, human-robot interaction, 3D perception, motion prediction, and embodied AI agents. Explore interactive papers on [Bytez](https://bytez.com/search?type=papers&publisher=cvpr&sort=new) or browse the virtual posters on [CVPR](https://cvpr.thecvf.com/virtual/2025/papers.html).
 
-Note: [Bytez](www.bytez.com/models) is working to make CVPR vision models <b>accessible for free</b> through our Inference API. More to come ✨
+Note: [Bytez](https://bytez.com/models) is working to make CVPR vision models <b>accessible for free</b> through our Inference API. More to come ✨
 
 
 ## Paper List
